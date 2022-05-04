@@ -1,1 +1,6 @@
-
+  "id":"242",
+  "Title":"Spelling error in header",
+  "Playback steps":"at the entrance https://www.google.com/ displays the letter a, not o",
+  "Results":"displays Gaogle instead Google",
+  "Environment":" Win 10 x64, Google Chrome 76.0.3809.100",
+  "Priority":"Mid"
